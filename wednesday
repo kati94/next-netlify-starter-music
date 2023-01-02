@@ -1,0 +1,262 @@
+{
+  "data":[
+    {
+      "FanInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FanBanner":"IMG_16_9_APP_INSTALL#366986694895415_366986861562065",
+      "FanNative":"IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+      "ApplovinInterstitial":"",
+      "ApplovinBanner":"",
+      "MaxInterstitial":"",
+      "MaxBanner":"",
+      "MaxNative":"",
+      "IronKey":"",
+      "AdsCount":"2",
+      "ActiveApp":"yes",
+      "Switch":"fan"
+    }
+  ],
+  "Genres":[
+    {
+      "name":"Rap Music",
+      "description":"Enjoy with this list music ,play it now and listen."
+    },
+    {
+      "name":"Rock Music",
+      "description":"Enjoy with this list music ,play it now and listen."
+    },
+    {
+      "name":"Pop Music",
+      "description":"Enjoy with this list music ,play it now and listen."
+    },
+    {
+      "name":"Native",
+      "description":"Native"
+    },
+    {
+      "name":"Jazz Music",
+      "description":"Enjoy with this list music ,play it now and listen."
+    },
+    {
+      "name":"Metal Music",
+      "description":"Enjoy with this list music ,play it now and listen."
+    },
+    {
+      "name":"Raï Music",
+      "description":"Enjoy with this list music ,play it now and listen."
+    },
+    {
+      "name":"Native",
+      "description":"Native"
+    }
+  ],
+  "Rap Music":[
+    {
+      "name":"Music 1",
+      "genre":"Rap Music",
+      "url":"https://www.soundjay.com/mechanical/sounds/chainsaw-01.mp3"
+    },
+    {
+      "name":"Music 2",
+      "genre":"Rap Music",
+      "url":"https://www.soundjay.com/mechanical/sounds/chainsaw-02.mp3"
+    },
+    {
+      "name":"Music 3",
+      "genre":"Rap Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"",
+      "genre":"",
+      "url":""
+    },
+    {
+      "name":"Music 4",
+      "genre":"Rap Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 5",
+      "genre":"Rap Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 6",
+      "genre":"Rap Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"",
+      "genre":"",
+      "url":""
+    }
+  ],
+  "Rock Music":[
+    {
+      "name":"Music 1",
+      "genre":"Rock Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 2",
+      "genre":"Rock Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 3",
+      "genre":"Rock Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"",
+      "genre":"",
+      "url":""
+    },
+    {
+      "name":"Music 4",
+      "genre":"Rock Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 5",
+      "genre":"Rock Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 6",
+      "genre":"Rock Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"",
+      "genre":"",
+      "url":""
+    }
+  ],
+  "Pop Music":[
+    {
+      "name":"Music 1",
+      "genre":"Pop Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 2",
+      "genre":"Pop Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 3",
+      "genre":"Pop Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"",
+      "genre":"",
+      "url":""
+    },
+    {
+      "name":"Music 4",
+      "genre":"Pop Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 5",
+      "genre":"Pop Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 6",
+      "genre":"Pop Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"",
+      "genre":"",
+      "url":""
+    }
+  ],
+  "Jazz Music":[
+    {
+      "name":"Music 1",
+      "genre":"Jazz Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 2",
+      "genre":"Jazz Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 3",
+      "genre":"Jazz Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"",
+      "genre":"",
+      "url":""
+    },
+    {
+      "name":"Music 4",
+      "genre":"Jazz Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 5",
+      "genre":"Jazz Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 6",
+      "genre":"Jazz Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"",
+      "genre":"",
+      "url":""
+    }
+  ],
+  "Raï Music":[
+    {
+      "name":"Music 1",
+      "genre":"Raï Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 2",
+      "genre":"Raï Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 3",
+      "genre":"Raï Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"",
+      "genre":"",
+      "url":""
+    },
+    {
+      "name":"Music 4",
+      "genre":"Raï Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 5",
+      "genre":"Raï Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"Music 6",
+      "genre":"Raï Music",
+      "url":"https://hshb.host/music/1.mp3"
+    },
+    {
+      "name":"",
+      "genre":"",
+      "url":""
+    }
+  ]
+}
